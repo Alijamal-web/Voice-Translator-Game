@@ -1,3 +1,5 @@
+
+
 # Voice Translator Game
 
 ## About the Project
@@ -67,6 +69,8 @@ Through this project, I practised:
 ## Project Demonstration
 
 Here is a short video demonstrating how the project works:
+
+https://github.com/user-attachments/assets/c91c8b86-2c9c-4c03-8e09-dcd935618edd
 
 ## Author
 
